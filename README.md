@@ -1,4 +1,4 @@
-# GUN Chat Dapp Demo
+#Chat Dapp Demo
 
 A decentralized chat app built
 
